@@ -167,4 +167,4 @@ __注：プログラムを再度実行する場合，実行前に必ず「-label
 [3] 吉田奈央,高梨克也,伝康晴:対話におけるあいづち表現の認定とその問題点について,言語処理学会第 15 回年次大会発表論文集,2009
 
 ## ライセンス
-本プログラムは，MIT Licenseで公開されています．詳細については，[ライセンス](https://github.com/KiharaRyoko/SpeechLevelCodingProgram/blob/main/LICENSE)を参照してください．
+本プログラムは，MIT Licenseの下で公開されています．詳細については，[ライセンス](https://github.com/KiharaRyoko/SpeechLevelCodingProgram/blob/main/LICENSE)を参照してください．
